@@ -4,11 +4,11 @@
 Deep Learning Specialization, Course 5
 
 
-![GitHub Logo](/images/25231.png=20x20)
+![](/images/25231.png | width=2%)
 
 
 **Disclaimer**
-According to the code of honor, while I deeply respect, it is forbidden to opensource the solutions as it may effect the learning of the enrolled students and also the standards of the specialization itself. However this repository is to document my incredible experience, by just lisitng the Projects, Assignments and Quizes that I completed as a part of the specialisation. This does *not* contain any of the work itself.
+According to the code of honor, while I deeply respect, it is forbidden to opensource the solutions as it may effect the learning of the enrolled students and also the standards of the specialization itself. However this repository is to document my incredible experience, by just listing the Projects, Assignments and Quizzes that I completed as a part of the specialization. This does *not* contain any of the work itself.
 
 ## My Deep Learning journey started here!
 
@@ -21,7 +21,7 @@ According to the code of honor, while I deeply respect, it is forbidden to opens
   - PA 3 - Building your Deep Neural Network: Step by Step
   - PA 4 - Deep Neural Network for Image Classification: Application
   
-- Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+- Course 2: Improving Deep Neural Networks: Hyper parameter tuning, Regularization and Optimization
 
   - PA 1 - Initialization
   - PA 2 - Regularization
