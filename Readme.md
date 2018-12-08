@@ -12,7 +12,7 @@ According to the code of honor, while I deeply respect, it is forbidden to opens
 
 ## My Deep Learning journey started here! 
 
-> <a href="url"> Certifactes availble in github repo <img src="/images/25231.png" align="right" width="30"> </a>
+> <a href="https://github.com/bsridatta/Deep-Learning-Specialization"> Certifactes availble in github repo <img src="https://github.com/bsridatta/Deep-Learning-Specialization/blob/master/images/25231.png" align="right" width="30"> </a>
 
 
 ## Programming Assignments
