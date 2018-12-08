@@ -4,7 +4,7 @@
 Deep Learning Specialization, Course 5
 
 
-  ![GitHub Logo](/images/github-logo.png) 
+  
 
 
 
@@ -13,9 +13,7 @@ According to the code of honor, while I deeply respect, it is forbidden to opens
 
 ## My Deep Learning journey started here! 
 
-> Certificates availble in github repo  <a href="https://github.com/bsridatta/Deep-Learning-Specialization"> <img src="https://github.com/bsridatta/Deep-Learning-Specialization/blob/master/images/github.ico" align="right" width="30"> </a>
-
-
+> Certificates availble in github repo  ![![](/images/github-logo.png)]("https://github.com/bsridatta/Deep-Learning-Specialization") 
 
 ## Programming Assignments
 
