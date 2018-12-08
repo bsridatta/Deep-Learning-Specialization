@@ -10,7 +10,7 @@ According to the code of honor, while I deeply respect, it is forbidden to opens
 ## My Deep Learning journey started here! 
 
 trail
-> Certificates availble in github repo  <a href="https://github.com/bsridatta/Deep-Learning-Specialization"><img src="../master/images/github-logo.png" align="right" width="30"> </a>
+> Certificates availble in github repo  <a href="https://github.com/bsridatta/Deep-Learning-Specialization"><img src="https://sridatta.ml/Deep-Learning-Specialization/images/github-logo.png" align="right" width="30"> </a>
  
 ## Programming Assignments
 
