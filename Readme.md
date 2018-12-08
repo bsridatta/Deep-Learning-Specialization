@@ -15,6 +15,8 @@ According to the code of honor, while I deeply respect, it is forbidden to opens
 > Certificates availble in github repo  <a href="https://github.com/bsridatta/Deep-Learning-Specialization"> <img src="https://github.com/bsridatta/Deep-Learning-Specialization/images/25231.png" align="right" width="30"> </a>
 
 
+<i class="fas fa-stroopwafel"></i>	
+
 ## Programming Assignments
 
 - Course 1: Neural Networks and Deep Learning
