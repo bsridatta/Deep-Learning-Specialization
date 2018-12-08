@@ -4,8 +4,12 @@
 Deep Learning Specialization, Course 5
 
 
+  ![GitHub Logo](/images/github-logo.png) 
+
+
+
 **Disclaimer**
-According to the code of honor, while I deeply respect, it is forbidden to opensource the solutions as it may effect the learning of the enrolled students and also the standards of the specialization itself. However this repository is to document my incredible experience, by just listing the Projects, Assignments and Quizzes that I completed as a part of the specialization. This does *not* contain any of the work itself.
+According to the code of honor, while I deeply respect, it is forbidden to opensource the solutions as it may effect the learning of the enrolled students and also the standards of the specialization itself. However this repository is to document my incredible experience, by just listing the Projects, Assignments and Quizzes that I completed as a part of the specialization. This does **not** contain any of the work itself.
 
 ## My Deep Learning journey started here! 
 
