@@ -10,6 +10,25 @@ According to the code of honor, while I deeply respect, it is forbidden to opens
 
 > Certificates availble in github repo  <a href="https://github.com/bsridatta/Deep-Learning-Specialization"><img src="https://sridatta.ml/Deep-Learning-Specialization/images/github-logo.png" align="right" width="30"> </a>
  
+ 
+ 
+ 
+ ## Projects 
+ 
+ Logistic Regression - Image classification 
+ Deep Neural Network - Image classification - Cat / Not Cat
+ Convolutional Neural Network using TensorFlow - Hand Sign Recognition
+ Happy House using Keras - Facial Expression 'Classification'
+ Residual Networks - Hand Sign Recognition
+ Autonomous Driving Application - Car detection using YOLO on Drive.ai dataset
+ Face Recognition for the Happy House - FaceNet Architecture - OpenFace Model
+ Art Generation with Neural Style Transfer- ImageNet VGG 16 Very Deep ConvNet
+ Name Generation - Character level language model - Dinosaurus name 
+ Shakespearian poem generator using RNN LSTM in Keras
+ Music Generation - Jazz Solo with an LSTM Network
+ 
+ 
+ 
 ## Programming Assignments
 
 - Course 1: Neural Networks and Deep Learning
